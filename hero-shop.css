@@ -1,0 +1,79 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-image: url(assets/img/Sharp.jpg);
+    width: 1440px;
+    height: 1024px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.description {
+    width: Fill (920px)px;
+    height: Hug (283px)px;
+    gap: 24px;
+    opacity: 0px;
+    padding-left: 260px;
+    padding-top: 364px;
+}
+
+.description h3 {
+    width: 920px;
+    height: 81px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 81px;
+    letter-spacing: -0.8999999761581421px;
+    text-align: center;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF;
+    padding-bottom: 100px;
+
+}
+
+.description p {
+    padding-left: 200px;
+
+    width: 720px;
+    height: 74px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 37px;
+    letter-spacing: -0.3499999940395355px;
+    text-align: center;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF;
+    padding-bottom: 120px;
+
+}
+
+.description a {
+    width: Hug (214px)px;
+    height: Hug (64px)px;
+    padding: 16px 40px 16px 40px;
+    text-decoration: none;
+    gap: 16px;
+    border-radius: 32px;
+    opacity: 0px;
+    width: 134px;
+    height: 32px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: center;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF;
+    background-color: #094BAC;
+    margin-left: 370px;
+}
