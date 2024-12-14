@@ -5,7 +5,7 @@
 }
 
 .container {
-    background-image: url(assets/img/Sharp.jpg);
+    background-image: url(/assets/img/Sharp.png);
     width: 1440px;
     height: 1024px;
     gap: 0px;
