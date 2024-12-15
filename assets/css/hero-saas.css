@@ -4,6 +4,22 @@
     box-sizing: border-box;
 }
 
+.link{
+    width: 100px;
+    padding-top: 30px;
+}
+.link a{
+    text-decoration: none;
+    padding: 15px;
+    border: 1px solid lightgray;
+    border-radius: 30px;
+    margin-left: 30px;
+    font-size: 30px;
+    color: #FFFFFF;
+    background-color: #212121;
+}
+
+
 .container {
     width: 1440px;
     height: 1024px;
@@ -13,7 +29,7 @@
     background-image: url("/assets/img/Illustration.png");
     background-position: 615.63px;
     background-repeat: no-repeat;
-
+    margin-top: 40px;
 }
 
 .description {

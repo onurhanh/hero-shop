@@ -4,6 +4,21 @@
     box-sizing: border-box;
 }
 
+.link{
+    width: 100px;
+    padding-top: 30px;
+}
+.link a{
+    text-decoration: none;
+    padding: 15px;
+    border: 1px solid lightgray;
+    border-radius: 30px;
+    margin-left: 30px;
+    font-size: 30px;
+    color: #FFFFFF;
+    background-color: #212121;
+}
+
 .container {
     background-color: #E73535;
     width: 1440px;
@@ -13,6 +28,7 @@
     background-image: url("/assets/img/burger.png");
     background-repeat: no-repeat;
     background-position: right;
+    margin-top: 40px;
 }
 
 .description {
@@ -90,7 +106,7 @@
     background-position: 4px;
     width: 135px;
     height: 41px;
-    padding-top: 40px;
+    padding-top: 41px;
     gap: 0px;
     opacity: 0px;
     font-size: 12px;
@@ -105,11 +121,11 @@
 .button h5 {
     width: 200px;
     height: 50px;
-    top: 17px;
+    margin-bottom: 2px;
     text-align: left;
     gap: 0px;
     opacity: 0px;
-    font-size: 13px;
+    font-size: 10px;
     font-weight: 700;
     line-height: 24px;
     margin-left: 71px;
